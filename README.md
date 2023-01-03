@@ -28,7 +28,7 @@
 ### Usando React, Redux, CSS puro y Back desarrollado en Node.js con Express, base de datos en PostgreSQL y Sequelize. Las apps las encuentran en mis repositorios publicos.
 
 ## Trabajo en equipo:
-### Creamos una app que permite proveer productos de veterinaria para el cuidado animal, acercar a los compradores con la veterinaria, ofrecer servicios de gestión de turnos y conectar al cliente con el profesional.
+### Creamos una app llamada <i>YOUPET</i> que permite proveer productos de veterinaria para el cuidado animal, acercar a los compradores con la veterinaria, ofrecer servicios de gestión de turnos y conectar al cliente con el profesional.
 
 <center><h2>Press to go deploy</h2></center>
 <center>
