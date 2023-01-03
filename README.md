@@ -27,6 +27,15 @@
 ### Desarrollé diferentes apps que incluía: búsquedas, filtrados, ordenamientos y creación
 ### Usando React, Redux, CSS puro y Back desarrollado en Node.js con Express, base de datos en PostgreSQL y Sequelize. Las apps las encuentran en mis repositorios publicos.
 
+## Trabajo en equipo:
+### Creamos una app que permite proveer productos de veterinaria para el cuidado animal, acercar a los compradores con la veterinaria, ofrecer servicios de gestión de turnos y conectar al cliente con el profesional.
+
+<center><h2>Press to go deploy</h2></center>
+<center>
+<a href="https://youpet.vercel.app/"> Ingresa a nuestra App YOUPET
+</a>
+</center>
+
 &nbsp;
 
 ## :paperclip: How to reach me:
@@ -35,7 +44,6 @@
 <a href="mailto:vemodi96@gmail.com" ><img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white">
 </span></a>
 
-<br/>
 
 
 
