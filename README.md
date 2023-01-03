@@ -22,9 +22,25 @@
 
 &nbsp;
 
-## :activate-breakpoints: My proyects
+## My proyects
 
 ### Desarrollé diferentes apps que incluía: búsquedas, filtrados, ordenamientos y creación
-### Usando React, Redux, CSS puro y Back desarrollado en Node.js con Express, base de datos en PostgreSQL y Sequelize.
+### Usando React, Redux, CSS puro y Back desarrollado en Node.js con Express, base de datos en PostgreSQL y Sequelize. Las apps las encuentran en mis repositorios publicos.
+
+&nbsp;
+
+## :paperclip: How to reach me:
+<span >
+<a href="www.linkedin.com/in/veronica-mosquera-diaz-304179101" target="_blank" ><img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white"> &nbsp;
+<a href="mailto:vemodi96@gmail.com" ><img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white">
+</span></a>
+
+<br/>
+
+
+
+
+
+
 
 
