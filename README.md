@@ -1,4 +1,4 @@
-![BANNER](https://user-images.githubusercontent.com/96452291/210286368-c81c13e4-7309-4e4c-a141-a7510992ab82.png)
+![Banner2](https://user-images.githubusercontent.com/96452291/210293546-51753814-aff8-41d3-a313-457f90c0c94f.png)
 
 <h1>FullStack Developer from Colombia</h1>
 
